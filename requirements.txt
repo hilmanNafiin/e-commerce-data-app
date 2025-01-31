@@ -4,5 +4,4 @@ numpy==1.26.0
 matplotlib==3.8.0
 seaborn==0.13.0
 babel==2.16.0
-urllib3==2.26.16
-
+urllib3==2.3.0
