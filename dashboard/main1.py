@@ -27,7 +27,7 @@ max_date = all_df["order_approved_at"].max()
 # Sidebar
 with st.sidebar:
     st.title("Tugas Pengantar Sains Data")
-    st.image("anggota.png")
+    st.image("./anggota.png")
     start_date, end_date = st.date_input(
         label="Select Date Range",
         value=[min_date, max_date],
